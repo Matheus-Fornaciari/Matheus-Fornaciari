@@ -15,6 +15,7 @@ CSS
 JavaScript
 MySQL
 SQL
+
 📚 Currently
 
 I'm learning more about programming, web development, and databases, always trying to improve my skills and build better projects.
@@ -24,6 +25,7 @@ Improve my development skills
 Participate in team projects
 Learn new technologies
 Create useful and creative projects
+
 📫 Contact
 
 You can find me here on GitHub to follow my projects and my learning journey 🚀
